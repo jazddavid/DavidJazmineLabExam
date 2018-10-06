@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LabExam</string>
+
+    <string name="per">Personal Notes</string>
+    <string name="doc">Office Notes</string>
+    <string name="pub">Public Notes</string>
+    <string name="photo">Attach a Photo</string>
+
+    <string name="not">Notes:Lorem ipsum dolor sit amet asda  awe asd asdad sadawd sad</string>
+    <string name="not2">asdasd aijdaskdaw ahdjsdh  ajdha dasda ujsda n awdha as  ajsdajs dajslhd djashdajs akjsdakj </string>
+</resources>
